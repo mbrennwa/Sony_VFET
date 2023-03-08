@@ -1,1 +1,1 @@
-This repository contains Sony VFET test data and lists to help with matching the parts.
+This repository was for the Sony VFET test data. It's now at www.github.com/mbrennwa/curvetracedata.
