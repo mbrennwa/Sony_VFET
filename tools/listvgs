@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-PATH="${PATH:+${PATH}:}~/PyPSUcurvetrace"
-
-extractpreheat 2S{J28,K82}/curvedata/*.dat

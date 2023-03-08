@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-PATH="${PATH:+${PATH}:}~/PyPSUcurvetrace"
-
-curveplot 2SK82/curvedata/*.dat --pairs --nodisplay --savepdf --xlabel 'Drain-Source Voltage' --ylabel 'Drain Current' --ylimit 4 --xlimit 65 --xylimit 50 --fontname Arial
-
